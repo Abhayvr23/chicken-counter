@@ -12,13 +12,7 @@ h2{
     font-size: 100px;
     text-align: center;
 }
-div{
-display: flex;
-justify-content: center;
-align-items: center;
-gap: 30px
 
-}
 img {
     width: 300px;
     max-width: 90%;
@@ -26,4 +20,5 @@ img {
     display: block;
     margin: 20px auto;
 }
+
 
