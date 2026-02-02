@@ -22,5 +22,8 @@ gap: 30px
 img {
     width: 300px;
     max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }
 
