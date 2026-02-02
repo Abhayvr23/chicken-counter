@@ -19,3 +19,8 @@ align-items: center;
 gap: 30px
 
 }
+img {
+    width: 300px;
+    max-width: 90%;
+}
+
